@@ -23,9 +23,9 @@ class RDSDatabaseConnector:
 
 final_extraction = RDSDatabaseConnector(data)
 
-print(final_extraction)
 
 
+    
 
 
 
