@@ -21,3 +21,8 @@ class Plotter:
     def qqplot(self, column):
         qqplot(self.df[column] , scale=1 ,line='q', fit=True)
         return pyplot.show()
+    
+    def boxplot(self, column):
+        plt.figure(figsize=(10, 5))
+        plt.boxplot(self.df[column])
+        return plt.show()
