@@ -26,3 +26,4 @@ class Plotter:
         plt.figure(figsize=(10, 5))
         plt.boxplot(self.df[column])
         return plt.show()
+    
