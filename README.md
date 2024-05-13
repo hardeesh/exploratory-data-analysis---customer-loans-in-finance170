@@ -1,5 +1,4 @@
-# Project Title
-Exploratory Data Analysis - Customer Loans in Finance
+# Exploratory Data Analysis - Customer Loans in Finance
 
 # Assignment
 The task set by AiCore began with the scenario of myself working for a large financial institution, where managing loans is a critical component of business operations.
