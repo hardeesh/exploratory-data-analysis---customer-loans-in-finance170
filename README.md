@@ -32,6 +32,10 @@ By conducting exploratory data analysis on the loan data, I would be able to gai
 - Finding risk factors that could be identified as indicators of loss
 
 # Installation instructions
+```git clone https://github.com/your-username/your-repository.git```
+
 # Usage instructions
-# File structure of the project
-# License information
+Provide instructions on how to run the scripts or notebooks for conducting exploratory data analysis and generating visualizations.
+
+# Acknowledgements
+I would like to give credit to the support received from the AiCore team for their continuous support and guidance throughout this project. Their expertise and encouragement have been invaluable in driving the success of this endeavor.
