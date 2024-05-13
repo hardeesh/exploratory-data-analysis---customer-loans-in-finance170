@@ -33,6 +33,7 @@ By conducting exploratory data analysis on the loan data, I would be able to gai
 
 # Installation instructions
 ```git clone https://github.com/your-username/your-repository.git```
+```cd your-repository```
 
 # Usage instructions
 Provide instructions on how to run the scripts or notebooks for conducting exploratory data analysis and generating visualizations.
